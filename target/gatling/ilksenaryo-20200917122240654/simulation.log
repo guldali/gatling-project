@@ -1,0 +1,6 @@
+RUN	senaryo.ilkSenaryo	ilksenaryo	1600345360654	 	3.0.2
+USER	Login ol	1	START	1600345361697	1600345361697
+REQUEST	1		Giriş Yap	1600345361722	1600345362044	OK	 
+REQUEST	1		Anasayfa	1600345362063	1600345362220	OK	 
+REQUEST	1		Anasayfa Redirect 1	1600345362232	1600345362308	KO	jsonPath($.data.token).find.exists preparation crashed: Jodd failed to parse into a valid AST: j.j.JsonException: Syntax error! Invalid char: < offset: 2 near: "  <!DOCTYPE ..."
+USER	Login ol	1	END	1600345361697	1600345362372

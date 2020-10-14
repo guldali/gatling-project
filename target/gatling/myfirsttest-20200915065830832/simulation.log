@@ -1,0 +1,4 @@
+RUN	myFirstTest	myfirsttest	1600153110832	 	3.0.2
+USER	My First Load Test	1	START	1600153112329	1600153112329
+REQUEST	1		Get All Video Games	1600153112355	1600153112358	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+USER	My First Load Test	1	END	1600153112329	1600153112373

@@ -1,0 +1,10 @@
+{
+  "simulation": "senaryo.ilkSenaryo",
+  "simulationId": "ilksenaryo",
+  "start": 1600186552818,
+  "description": "-s",
+  "scenarios": ["Anasayfaya giriş"],
+  "assertions": [
+
+  ]
+}

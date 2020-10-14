@@ -1,0 +1,10 @@
+{
+  "simulation": "senaryo.ilkSenaryo",
+  "simulationId": "ilksenaryo",
+  "start": 1600416429877,
+  "description": "",
+  "scenarios": ["Login"],
+  "assertions": [
+
+  ]
+}

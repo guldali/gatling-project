@@ -1,0 +1,8 @@
+RUN	simulations.CsvFeeder	csvfeeder	1577782053736	 	3.0.2
+USER	Get specific video games from csv	1	START	1577782055245	1577782055245
+REQUEST	1		Get specific video game	1577782055302	1577782055529	OK	 
+REQUEST	1		Get specific video game	1577782057553	1577782057560	OK	 
+REQUEST	1		Get specific video game	1577782059561	1577782059565	OK	 
+REQUEST	1		Get specific video game	1577782061561	1577782061566	KO	jsonPath($.name).find.is(Super Mario), but actually found Super Mario 64
+REQUEST	1		Get specific video game	1577782063571	1577782063576	OK	 
+USER	Get specific video games from csv	1	END	1577782055245	1577782065574

@@ -1,0 +1,4 @@
+RUN	simulations.CheckResponseBodyAndExract	checkresponsebodyandexract	1577696274672	 	3.0.2
+USER	Check JSON Path	1	START	1577696275654	1577696275654
+REQUEST	1		Get specific game	1577696275697	1577696275709	KO	jsonPath($.name).find.is(Resident Evil 5), but actually found Resident Evil 4
+USER	Check JSON Path	1	END	1577696275654	1577696275854

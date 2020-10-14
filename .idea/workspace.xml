@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e0b49a0-4ea0-4ffa-b8b7-d6e2248e2c3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/bodies/NewGameTemplate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/data/gameCsvFile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/myFirstTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/myFirstTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/AddPauseTime.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/BasicLoadSimulation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CheckResponseBodyAndExract.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CheckResponseCode.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CodeReuseWithObjects.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CsvFeeder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CsvFeederToCustom.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/CustomFeeder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/FixedDurationLoadSimulation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/RampUsersLoadSimulation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/simulations/RunTimeParameters.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bodies/NewGameTemplate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/gameCsvFile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myFirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/AddPauseTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/BasicLoadSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CheckResponseBodyAndExract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CheckResponseCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CodeReuseWithObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CsvFeeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CsvFeederToCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/CustomFeeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/FixedDurationLoadSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/RampUsersLoadSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/simulations/RunTimeParameters.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hXSKUgHJrB8daz6If7vnU1mrqz" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600417244865" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Engine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Engine" />
+      <module name="gatling3-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e0b49a0-4ea0-4ffa-b8b7-d6e2248e2c3f" name="Default Changelist" comment="" />
+      <created>1576844327659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576844327659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="180" key="GridCell.Tab.0.bottom" timestamp="1602685089285">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="182" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600240834273" />
+    <state width="1358" height="455" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1600186965262" />
+    <state width="1358" height="120" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1602657567450" />
+    <state width="1358" height="78" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1602675502757" />
+    <state width="1358" height="232" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1602678063867" />
+    <state width="1358" height="180" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1602685089285" />
+    <state width="1358" height="180" key="GridCell.Tab.0.center" timestamp="1602685089284">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="182" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1600240834272" />
+    <state width="1358" height="455" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1600186965261" />
+    <state width="1358" height="120" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1602657567449" />
+    <state width="1358" height="78" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1602675502756" />
+    <state width="1358" height="232" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1602678063866" />
+    <state width="1358" height="180" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1602685089284" />
+    <state width="1358" height="180" key="GridCell.Tab.0.left" timestamp="1602685089283">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="182" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1600240834272" />
+    <state width="1358" height="455" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1600186965260" />
+    <state width="1358" height="120" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1602657567448" />
+    <state width="1358" height="78" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1602675502756" />
+    <state width="1358" height="232" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1602678063865" />
+    <state width="1358" height="180" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1602685089283" />
+    <state width="1358" height="180" key="GridCell.Tab.0.right" timestamp="1602685089284">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="182" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1600240834273" />
+    <state width="1358" height="455" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1600186965261" />
+    <state width="1358" height="120" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1602657567449" />
+    <state width="1358" height="78" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1602675502756" />
+    <state width="1358" height="232" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1602678063866" />
+    <state width="1358" height="180" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1602685089284" />
+    <state width="1358" height="336" key="GridCell.Tab.1.bottom" timestamp="1600261687357">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600261687357" />
+    <state width="1358" height="336" key="GridCell.Tab.1.center" timestamp="1600261687356">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1600261687356" />
+    <state width="1358" height="336" key="GridCell.Tab.1.left" timestamp="1600261687356">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1600261687356" />
+    <state width="1358" height="336" key="GridCell.Tab.1.right" timestamp="1600261687357">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1600261687357" />
+    <state x="228" y="23" width="1024" height="826" key="SettingsEditor" timestamp="1600156215597">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="228" y="23" width="1024" height="826" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1600156215597" />
+  </component>
+</project>

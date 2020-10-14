@@ -1,0 +1,4 @@
+RUN	senaryo.ilkSenaryo	ilksenaryo	1600262285855	 	3.0.2
+USER	Login ol	1	START	1600262288865	1600262288865
+REQUEST	1		Anasayfa	1600262288897	1600262288898	KO	j.n.UnknownHostException: www.n11.comgiris-yap: nodename nor servname provided, or not known
+USER	Login ol	1	END	1600262288865	1600262288914

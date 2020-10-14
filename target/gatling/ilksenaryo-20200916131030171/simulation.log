@@ -1,0 +1,4 @@
+RUN	senaryo.ilkSenaryo	ilksenaryo	1600261830171	 	3.0.2
+USER	My First Load Test	1	START	1600261833045	1600261833045
+REQUEST	1		Get All Video Games	1600261833070	1600261833116	KO	j.n.UnknownHostException: www.n11.comvideogames: nodename nor servname provided, or not known
+USER	My First Load Test	1	END	1600261833045	1600261833130

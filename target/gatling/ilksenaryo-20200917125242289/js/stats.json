@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 112,
+        "ok": 112,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 140,
+        "ok": 140,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 196,
+        "ok": 196,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 207,
+        "ok": 207,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 3,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.0,
+        "ok": 3.0,
+        "ko": 0
+    }
+},
+"contents": {
+"req_giris--yap-aa9bc": {
+        "type": "REQUEST",
+        "name": "Giriş Yap",
+"path": "Giriş Yap",
+"pathFormatted": "req_giris--yap-aa9bc",
+"stats": {
+    "name": "Giriş Yap",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 210,
+        "ok": 210,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 1.0,
+        "ko": 0
+    }
+}
+    },"req_anasayfa-cf7a0": {
+        "type": "REQUEST",
+        "name": "Anasayfa",
+"path": "Anasayfa",
+"pathFormatted": "req_anasayfa-cf7a0",
+"stats": {
+    "name": "Anasayfa",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 57,
+        "ok": 57,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 1.0,
+        "ko": 0
+    }
+}
+    },"req_anasayfa-redire-4abe3": {
+        "type": "REQUEST",
+        "name": "Anasayfa Redirect 1",
+"path": "Anasayfa Redirect 1",
+"pathFormatted": "req_anasayfa-redire-4abe3",
+"stats": {
+    "name": "Anasayfa Redirect 1",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 69,
+        "ok": 69,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.0,
+        "ok": 1.0,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

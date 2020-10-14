@@ -1,0 +1,5 @@
+RUN	senaryo.ilkSenaryo	ilksenaryo	1600351059733	 	3.0.2
+USER	Login	1	START	1600351060726	1600351060726
+REQUEST	1		token generate	1600351060754	1600351060856	KO	jsonPath(forgery_token).find.exists extraction crashed: '$' expected but 'f' found
+ERROR	login ol: Failed to build request: No attribute named 'forgerytoken' is defined 	1600351060915
+USER	Login	1	END	1600351060726	1600351060918

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseBodyAndExract",
+  "simulationId": "checkresponsebodyandexract",
+  "start": 1577696274672,
+  "description": "",
+  "scenarios": ["Check JSON Path"],
+  "assertions": [
+
+  ]
+}

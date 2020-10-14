@@ -1,0 +1,8 @@
+RUN	simulations.CsvFeederToCustom	csvfeedertocustom	1577790774998	 	3.0.2
+USER	Get specific video games from csv	1	START	1577790775917	1577790775917
+REQUEST	1		Get specific video game	1577790775972	1577790775980	OK	 
+REQUEST	1		Get specific video game	1577790778001	1577790778006	OK	 
+REQUEST	1		Get specific video game	1577790780000	1577790780005	OK	 
+REQUEST	1		Get specific video game	1577790782010	1577790782015	OK	 
+REQUEST	1		Get specific video game	1577790784019	1577790784024	OK	 
+USER	Get specific video games from csv	1	END	1577790775917	1577790786031

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseCode",
+  "simulationId": "checkresponsecode",
+  "start": 1577696158384,
+  "description": "",
+  "scenarios": ["Video Games DB - 3 scenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,8 @@
+RUN	simulations.CustomFeeder	customfeeder	1577954877186	 	3.0.2
+USER	Post new games	1	START	1577954877929	1577954877929
+REQUEST	1		Post New Game	1577954877996	1577954878120	KO	status.find.is(200), but actually found 500
+REQUEST	1		Post New Game	1577954879140	1577954879153	KO	status.find.is(200), but actually found 500
+REQUEST	1		Post New Game	1577954880160	1577954880175	KO	status.find.is(200), but actually found 500
+REQUEST	1		Post New Game	1577954881171	1577954881186	KO	status.find.is(200), but actually found 500
+REQUEST	1		Post New Game	1577954882189	1577954882201	KO	status.find.is(200), but actually found 500
+USER	Post new games	1	END	1577954877929	1577954883200

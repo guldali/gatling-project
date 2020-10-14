@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.RampUsersLoadSimulation",
+  "simulationId": "rampusersloadsimulation",
+  "start": 1577967655901,
+  "description": "",
+  "scenarios": ["Basic Load Simulation "],
+  "assertions": [
+
+  ]
+}
